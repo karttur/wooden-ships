@@ -53,11 +53,11 @@ Blanda samman ingredienserna och värm upp i vattenbad till 45 grader. Häll upp
 
 Vill du har mer skydd mot angrepp från mikroorganismer så häll i någon procent tefröolja; om du vill ha mer väldoft och förhindra oxidation så ta någon procent kameliaolja. Det funkar även för impregnering.
 
-[tTefröolja] har jag köpt från [Opella](https://opella.se/product.html/tefroolja?category_id=34) och Kameliaolja från [Cleancut](https://www.cleancut.se/butik/knivslipning/kameliaolja/kameliaolja-detail).
+Tefröolja har jag köpt från [Opella](https://opella.se/product.html/tefroolja?category_id=34) och Kameliaolja från [Cleancut](https://www.cleancut.se/butik/knivslipning/kameliaolja/kameliaolja-detail).
 
 ### Ytlack
 
-För att gå från impregnering till ytlack behöver du tillsätta cirka 3 % karnaubavax. Vaxen smälter inte förrän vid runt 80 grader. För att skapa ytlacken måste du därför smälta vaxen och samtidigt öka temperaturen på din grundblandning (typ _standard_ är bäst) till minst 50 grader, sannolikt lite mer. Blanda sedan samman vaxet och grundblandningen. Om inte vaxet löser sig prova att köra den färdiga blandningen i mikrovågsugnen.
+För att gå från impregnering till ytlack behöver du tillsätta cirka 3 % karnaubavax. Vaxen smälter inte förrän vid runt 80 grader. För att skapa ytlacken måste du därför smälta vaxen och samtidigt öka temperaturen på din grundblandning till minst 50 grader, sannolikt lite mer. Blanda sedan samman vaxet och grundblandningen. Om inte vaxet löser sig prova att köra den färdiga blandningen i mikrovågsugnen. Vill du förhindra mögelangrepp tillsätt någon procent tefröolja och/eller kameliaolja.
 
 Även karnaubavax köper jag från [Opella](https://opella.se/product.html/karnaubavax).
 
@@ -67,6 +67,6 @@ Bra sida om [När linolja torkar](https://byggnadsvard.se/nar-linoljefarg-torkar
 
 Slöjd och byggnadsvårds sida om [Olja, vax, fernissa, förtunning](https://www.slojdochbyggnadsvard.se/butik/farg-och-maleri/olja-vax-fernissa-fortunning/)
 
-[thomassondesign (han med gör-det-själv-kajakerna om linoja, tjära mm)](https://www.thomassondesign.com/bygga/materialfakta/linolja-tjara).
+[thomassondesign (han med gör-det-själv-kajakerna) om linoja, tjära mm](https://www.thomassondesign.com/bygga/materialfakta/linolja-tjara).
 
-[Täbåtsvård för lata (Skånes folkbåtsflottilj)](http://www.folkbatskane.se/wp/?page_id=37)
+[Träbåtsvård för lata (Skånes folkbåtsflottilj)](http://www.folkbatskane.se/wp/?page_id=37)
