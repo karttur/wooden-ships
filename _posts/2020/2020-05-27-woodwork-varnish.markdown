@@ -36,16 +36,18 @@ De leverantörer som jag använt mig av är:
 
 - [Rå linolja från Kulturhantverkarna](https://kulturhantverkarna.se/sv/kokt-kallpressad-linolja-impregnering/)
 - [Kinesiskt tungolja från Biltema](https://www.biltema.se/bygg/farg/traoljor/kinaolja-2000020852?gclid=Cj0KCQiA7NKBBhDBARIsAHbXCB6MvRbvR1uvOhzD9SVFdq5dM-AC2IQjqwJRl-lHAj_7BWPss53tsOQaAuMREALw_wcB)
-- Apelsinolja köpte jag från [Linssupply i Nyköping](https://www.facebook.com/linsupply/) som numer har sin shop på facebook. Altenativa leverantörer inkluderar [imex](http://www.imexab.se/apelsinolja2.html) och [PPtechnology](https://p-p.se/avfettning/apelsinolja-ultramax/) eller via [Amazon.se](https://www.amazon.se/s?k=apelsinolja&language=sv_SE&adgrpid=113845834202&gclid=Cj0KCQiA7NKBBhDBARIsAHbXCB7FDpBZujJJRa210uBfycw9nvXhjS7afQq6bw2EKWpyNUGgaRIOeTAaApCNEALw_wcB&hvadid=475698373330&hvdev=c&hvlocphy=1012227&hvnetw=g&hvqmt=b&hvrand=2423763405358113722&hvtargid=kwd-397007105474&hydadcr=27468_2138574&tag=textstdgledes-21&ref=pd_sl_4fbnmdinos_b). Terpentin kan man köpa i de flesta färghandlar.
+- Apelsinolja köpte jag från [Linssupply i Nyköping](https://www.facebook.com/linsupply/) som numer har sin shop på facebook. Altenativa leverantörer inkluderar [imex](http://www.imexab.se/apelsinolja2.html) och [PPtechnology](https://p-p.se/avfettning/apelsinolja-ultramax/) eller via [Amazon.se](https://www.amazon.se/s?k=apelsinolja&language=sv_SE&adgrpid=113845834202&gclid=Cj0KCQiA7NKBBhDBARIsAHbXCB7FDpBZujJJRa210uBfycw9nvXhjS7afQq6bw2EKWpyNUGgaRIOeTAaApCNEALw_wcB&hvadid=475698373330&hvdev=c&hvlocphy=1012227&hvnetw=g&hvqmt=b&hvrand=2423763405358113722&hvtargid=kwd-397007105474&hydadcr=27468_2138574&tag=textstdgledes-21&ref=pd_sl_4fbnmdinos_b).
+- Terpentin kan man köpa i de flesta färghandlar.
+- [Opella](https://opella.se)  säljer esoteriska oljor och karnaubavax.
 
 ### Grundrecept
 
-Grundreceptet
+Grundreceptet (relative andelar); traditionell är den typiska blandning som jag brukade använda, standard är för normala impregneringar, penetrerande är för mer djupbehandlande (sugande trä) impregnering.
 
 |  | linolja| tungolja | apelsinolja | terpentin |
 | traditionell | 60 | 0 | 0 | 40 |
-| standard  | 35  | 35  | 15  | 15  |
-| penetrerande | 25  | 20  | 20  | 35  |
+| standard  | 40  | 40  | 10  | 10  |
+| penetrerande | 25  | 20  | 15  | 40  |
 
 Blanda samman ingredienserna och värm upp i vattenbad till 45 grader. Häll upp i flaska och skaka medan det är varmt.  Låt svalna. Klart.
 
